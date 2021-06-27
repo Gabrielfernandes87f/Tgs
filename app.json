@@ -1,0 +1,12 @@
+{
+  "name": "Tgs",
+  "displayName": "Tgs",
+  "expo": {
+    "name": "Tgs",
+    "slug": "Tgs",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
