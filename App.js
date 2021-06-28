@@ -40,7 +40,7 @@ export default function App() {
     database.collection('produtos').doc(id).update({
       descricao,
       marca
-    });
+    })
   }
 
   return (
